@@ -1,6 +1,0 @@
-fluids ec
-combustion hw
-cfd final project
-fluids lecture
-cfd lecture
-fluids hw
